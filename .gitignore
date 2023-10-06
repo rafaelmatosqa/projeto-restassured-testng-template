@@ -1,0 +1,12 @@
+# Ignorar a pasta .idea e seu conteúdo
+.idea/
+target/
+
+# Ignorar especificamente os arquivos dentro da pasta .idea
+!.idea/.gitignore
+!.idea/compiler.xml
+!.idea/encodings.xml
+!.idea/jarRepositories.xml
+!.idea/misc.xml
+!.idea/uiDesigner.xml
+!.idea/vcs.xml
